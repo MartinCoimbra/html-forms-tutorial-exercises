@@ -1,0 +1,30 @@
+* {
+	background: #072657;
+	color: #ffffff;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.login {
+	width: 30%;
+	text-align: center;
+	margin: 150px auto;
+}
+input[type="text"],
+input[type="password"] {
+	width: 90%;
+	background: #051a3d;
+	border: solid 0.1px #031024;
+}
+input[type="text"],
+input[type="password"],
+button {
+	border-radius: 5px;
+	margin-bottom: 10px;
+	padding: 15px 20px;
+}
+
+button {
+	width: 100%;
+	background: #4874d7;
+	border: solid 0.1px #000000;
+}
